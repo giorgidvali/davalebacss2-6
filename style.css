@@ -1,0 +1,110 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.ganabi {
+    max-width: 1604px;
+    width: 100%;
+    padding: 96px;
+    background-color: #E4EBFF;
+    margin:  auto;
+}
+
+.mayurebeli {
+    max-width: 1280px;
+    width: 100%;
+    padding: 96px;
+    background: #fff;
+    margin: 0 auto;
+}
+
+.quchisBichi {
+    max-width: 929px;
+    width: 100%;
+    text-align: center;
+    color: #6941C6;
+    font-size: 16px;
+}
+
+.kaiBichi {
+    max-width: 929px;
+    width: 100%;
+    color: #181D27;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 12px;
+    margin-bottom: 32px;
+}
+
+.momavali {
+    color: #535862;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 96px;
+}
+
+.patiosani {
+    max-width: 1280px;
+    max-width: 100%;
+    margin-bottom: 96px;
+
+}
+
+.mujiki {
+    margin-bottom: 89px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.dzveliBichi {
+    max-width: 553px;
+    width: 100%;
+}
+
+.team {
+    color: #181D27;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.keep {
+    color: #535862;
+    font-size: 18px;
+    margin-bottom: 30px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.mama {
+    display: block;
+    margin-top: 16px;
+}
+
+.move {
+    color: #535862;
+    font-size: 18px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+.imgClass {
+    vertical-align: middle;
+}
+
+.blatnoebi {
+    display: inline-block;
+    vertical-align: middle;
+    width: 500px;
+}
+
+.secondFoto {
+    display: inline-block;
+    vertical-align: middle;
+    width: 500px;
+    margin-left: 84px;
+}
+
